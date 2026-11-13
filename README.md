@@ -39,7 +39,7 @@
 ### ② 命令行（需 Node ≥14）
 
 ```bash
-git clone https://github.com/xuzhang/gongwen-ai.git
+git clone https://github.com/Xuxu9527-tommmm/gongwen-ai.git
 cd gongwen-ai
 
 node cli/cli.js list                          # 列出全部文种
