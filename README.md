@@ -6,6 +6,14 @@
 >
 > 一套完全离线的公文知识工程：**20 个文种知识卡 + 自动判文种 + 11 类确定性核稿 + GB/T 9704 版式参数**。不联网、不调外部 API、可嫁接到任何本地模型（Ollama / llama.cpp）或在线模型。
 
+> ### 📦 我不想看代码，只想装个能用的
+>
+> **去这里下载成品安装包**：👉 [local-office-assistant Releases](https://github.com/Xuxu9527-tommmm/local-office-assistant/releases)
+>
+> - 那边是**开箱即用的完整软件**（界面、引擎、安装包都做好了），Windows / macOS / 统信 UOS / 银河麒麟 都有对应安装包
+> - 本仓库是**给想自己改规则的人**看的：改文种卡、核稿规则、版式参数，或嫁接到你自己的系统
+> - 不清楚两个仓库的关系？看下面 [「相关项目」](#相关项目) 一节
+
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
 [![Node](https://img.shields.io/badge/node-%3E14-green)](cli/cli.js)
 [![Offline](https://img.shields.io/badge/network-none-success)](#)
