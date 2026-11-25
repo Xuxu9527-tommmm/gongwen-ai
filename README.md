@@ -306,6 +306,15 @@ gongwen-ai/
 
 **免责声明**：本工具只做格式与结构层面的确定性检查。政策提法、数字口径、涉密内容必须由本单位核稿人终审。使用本工具产生的文稿，其内容真实性、合规性由使用者负责。
 
+## 相关项目
+
+- [local-office-assistant（本地办公助手）](https://github.com/Xuxu9527-tommmm/local-office-assistant) —— 用本知识库做成的**开箱即用完整产品**：带聊天界面、内置推理引擎、双击就能启动，支持 Windows / macOS / 统信 UOS / 银河麒麟。**想整体下载、装完就用，去它的 [Releases](https://github.com/Xuxu9527-tommmm/local-office-assistant/releases) 拿安装包**，不用自己拼本仓库的代码。
+- 本仓库 vs 那个仓库怎么选：
+  | 你想做 | 去哪 |
+  |---|---|
+  | 装好就用、给同事用 | [local-office-assistant Releases](https://github.com/Xuxu9527-tommmm/local-office-assistant/releases) |
+  | 自己改文种卡、核稿规则、版式参数，或嫁接到自己的模型/系统 | 本仓库（`core/gongwen.js` 与 `prompt-templates/`） |
+
 ## 路线图
 
 - [ ] 更多地方文种卡（如××省党政机关公文细则）——欢迎按 `core/gongwen.js` 的卡格式提 PR
