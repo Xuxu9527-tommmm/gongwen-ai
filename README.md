@@ -11,6 +11,7 @@
 > **去这里下载成品安装包**：👉 [local-office-assistant Releases](https://github.com/Xuxu9527-tommmm/local-office-assistant/releases)
 >
 > - 那边是**开箱即用的完整软件**（界面、引擎、安装包都做好了），Windows / macOS / 统信 UOS / 银河麒麟 都有对应安装包
+> - 一个页面搞定选包 + 安装教程（含国产系统 6 分钟视频，免登录可转发）：👉 [下载页与安装教程](https://www.workbuddy.cn/space/d/CdIz3vS1dxeUJVCR4heUux)
 > - 本仓库是**给想自己改规则的人**看的：改文种卡、核稿规则、版式参数，或嫁接到你自己的系统
 > - 不清楚两个仓库的关系？看下面 [「相关项目」](#相关项目) 一节
 
